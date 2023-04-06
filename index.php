@@ -86,6 +86,7 @@
     <section class="menu" id="menu">
         <h2><span>Paling</span> Laku</h2>
         <p>Rasa dari kopi yang nikmat dan aromanya yang harum berhasil membuat banyak orang tertarik dan berlangganan. </p>
+        <p>yang bener jaki</p>
 
         <div class="row">
         <?php $i = 1; ?>
