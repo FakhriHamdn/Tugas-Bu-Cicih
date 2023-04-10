@@ -144,6 +144,7 @@
             <a href="#about">Tentang Kami</a>
             <a href="#menu">Menu</a>
             <a href="#contact">Kontak</a>
+            <a href="#contact">Test</a>
         </div>
 
         <div class="credit">
